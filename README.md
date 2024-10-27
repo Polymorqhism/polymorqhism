@@ -5,11 +5,11 @@
 
 ## progress:
 
-### 🔥 i know:
+### 🔥 proficient:
 - `python`
 - `js`
 
-### 😔 learning
+### 😔 learning:
 - `c++`
 - `c`
 - `rust`
