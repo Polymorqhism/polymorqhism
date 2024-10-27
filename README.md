@@ -7,12 +7,12 @@
 ## progress:
 
 ### ⭐⭐⭐ proficient:
-- `python`
-- `js`
+- `.py`
+- `.js`
 
 ### ⭐⭐   intermediate:
-- `c`
-- `c++`
+- `.c`
+- `.cpp`
 
 ### ⭐      learning:
-- `rust`
+- `.rs`
