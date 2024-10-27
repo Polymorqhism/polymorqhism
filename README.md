@@ -4,8 +4,8 @@
 - i use neovim btw
 
 ## i code in
-- c++
-- c *(if c++ isnt worth using)*
-- python *(prototyping)*
-- sometimes js
-- sometimes rust
+- `c++`
+- `c` *(if c++ isnt worth using)*
+- `python` *(prototyping)`
+- sometimes `js`
+- sometimes `rust`
