@@ -3,9 +3,13 @@
 - @polymorqhism on discord
 - i use neovim btw
 
-## i code in
+## progress:
+
+### i know:
+- `python`
+- `js`
+
+### learning
 - `c++`
-- `c` *(if c++ isnt worth using)*
-- `python` *(prototyping)`
-- sometimes `js`
-- sometimes `rust`
+- `c`
+- `rust`
