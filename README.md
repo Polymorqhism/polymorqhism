@@ -5,11 +5,15 @@
 
 ## progress:
 
-### 🔥 proficient:
+### ⭐⭐⭐ proficient:
 - `python`
 - `js`
 
-### 📖 learning:
+### ⭐⭐   intermediate:
+- `c`
+- `c++`
+
+### ⭐      learning:
 - `c++`
 - `c`
 - `rust`
