@@ -3,7 +3,7 @@
 - @polymorqhism on discord
 - i use vim btw
 - i use arch btw 
-- professional js & py hater
+- professional windows hater
 
 ## progress:
 
