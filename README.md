@@ -10,9 +10,10 @@
 ### ⭐⭐⭐ proficient:
 - `.py`
 - `.js`
+- `.c`
 
 ### ⭐⭐   intermediate:
-- `.c`
+- `.cpp`
 
 ### ⭐      noob:
 - `.rs`
