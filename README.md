@@ -13,7 +13,6 @@
 
 ### ⭐⭐   intermediate:
 - `.c`
-- `.cpp`
 
-### ⭐      learning:
+### ⭐      noob:
 - `.rs`
