@@ -12,5 +12,5 @@
 - `.c` - real stuff
 - `.cpp` & `.js` - to hate on
 
----
+--
 <sup><sub> take it or leave it </sub></sup>
