@@ -1,19 +1,13 @@
 # polymorqhism
-- https://floppa.in (unless i cant pay for the domain in the future 💀💀)
-- @polymorqhism on discord
-- i use vim (AND emacs) btw
-- i use arch btw 
-- professional windows hater
+> https://floppa.in/
 
-## progress:
+- Arch Linux; polyWM
+- Emacs (evil mode)
 
-### ⭐⭐⭐ proficient:
-- `.py`
-- `.js`
-- `.c`
+## Langs:
+- .py - prototyping
+- .c - real stuff
+- .cpp - to hate on
 
-### ⭐⭐   intermediate:
-- `.cpp`
-
-### ⭐      noob:
-- `.rs`
+---
+<sup><sub> take it or leave it </sub></sup>
