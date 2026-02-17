@@ -1,7 +1,7 @@
 # polymorqhism
 > https://floppa.in/
 
-- Arch Linux; polyWM
+- Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
 - Emacs (evil mode)
 - Contact: `polymorqhism` (Discord), `polymorqhism@proton.me`
 
