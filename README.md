@@ -1,5 +1,7 @@
-# polymorqhism
-> https://floppa.in/
+<h1 align="center">Polymorqhism</h1>
+<p align="center">
+  floppa.in
+</p>
 
 - Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
 - Emacs (evil mode)
