@@ -15,10 +15,10 @@
 ## Projects:
 | Project | Gist |
 ------  | ------------
-| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 Window Manager |
-| [polyedit](https://github.com/Polymorqhism/polyedit) | TUI Text Editor for C-Lang|
-| [polycomm](https://github.com/Polymorqhism/polycomm) | Encrypted Communication Tool |
-
+| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager |
+| [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C|
+| [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool |
+| [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 
 - Refer to the repositories of each project for more information.
 
 <sup><sub> take it or leave it </sub></sup>
