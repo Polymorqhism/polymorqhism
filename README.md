@@ -3,13 +3,13 @@
   floppa.in
 </p>
 
-- Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
-- Emacs (evil mode)
+- OS: Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
+- Editor: [polyedit](https://github.com/Polymorqhism/polyedit) (main editor); Emacs (backup editor)
 - Contact: `polymorqhism` (Discord), `polymorqhism@proton.me`
 
 ## Langs:
-- `.py` - prototyping
 - `.c` - real stuff
+- `.py` - prototyping
 - `.cpp` & `.js` - to hate on
 
 
