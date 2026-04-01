@@ -2,7 +2,7 @@
     <img
     src="polymorqhism.png"
     alt="polymorqhism"
-        width="500"
+        width="300"
   /><br>
   floppa.in
 </p>
