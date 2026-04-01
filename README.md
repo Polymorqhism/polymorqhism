@@ -13,11 +13,11 @@
 - `.cpp` & `.js` - to hate on
 
 ## Projects:
-| Project | Description |
+| Project | Gist |
 ------  | ------------
 | [polyWM](https://github.com/Polymorqhism/polyWM) | X11 Window Manager |
-| [polyedit](https://github.com/Polymorqhism/polyedit) | TUI Text Editor |
-| [polycomm](https://github.com/Polymorqhism/polycomm) | Communication Tool |
+| [polyedit](https://github.com/Polymorqhism/polyedit) | TUI Text Editor for C-Lang|
+| [polycomm](https://github.com/Polymorqhism/polycomm) | Encrypted Communication Tool |
 
 - Refer to the repositories of each project for more information.
 
