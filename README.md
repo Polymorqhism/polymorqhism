@@ -18,7 +18,6 @@
 | [polyWM](https://github.com/Polymorqhism/polyWM) | X11 Window Manager |
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI Text Editor |
 | [polycomm](https://github.com/Polymorqhism/polycomm) | Communication Tool |
--
 
 - Refer to the repositories of each project for more information.
 
