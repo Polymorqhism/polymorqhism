@@ -1,5 +1,8 @@
-<h1 align="center">Polymorqhism</h1>
 <p align="center">
+    <img
+    src="polymorqhism.png"
+    alt="polymorqhism"
+  />
   floppa.in
 </p>
 
