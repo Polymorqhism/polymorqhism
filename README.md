@@ -8,7 +8,6 @@
 </p>
 
 - OS: Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
-- Editor: [polyedit](https://github.com/Polymorqhism/polyedit) (main editor); Emacs (backup editor)
 - Contact: `polymorqhism` (Discord), `polymorqhism@proton.me`
 
 ## Langs:
