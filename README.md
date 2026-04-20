@@ -23,7 +23,7 @@
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C|
 | [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool |
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 
-| [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI File Explorer | 
+| [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 
 - Refer to the repositories of each project for more information.
 
 <sup><sub> take it or leave it </sub></sup>
