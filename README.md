@@ -36,5 +36,3 @@
 | [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🔴 |
 - Refer to the repositories of each project for more information.
 - Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
-
-<sup><sub> take it or leave it </sub></sup>
