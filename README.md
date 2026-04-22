@@ -4,7 +4,7 @@
     alt="polymorqhism"
         width="300"
   /><br>
-  https://floppa.in
+  https://floppa.in/
 </p>
 
 - OS: Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
@@ -12,8 +12,7 @@
 
 ## Langs:
 - `.c` - real stuff
-- `.py` - prototyping
-- `.cpp` & `.js` - to hate on
+- `.py` &`.js` - prototyping
 
 ## Projects:
 
@@ -28,7 +27,7 @@
 
 ### Project List:
 
-| Project | Gist | Stability? |
+| Project | Gist | Stability |
 ------  | ------------ | ----
 | [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟠 |
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟡 |
