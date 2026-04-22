@@ -4,7 +4,7 @@
     alt="polymorqhism"
         width="300"
   /><br>
-  [floppa.in](https://floppa.in/)
+  https://floppa.in
 </p>
 
 - OS: Arch Linux; [polyWM](https://github.com/Polymorqhism/polyWM)
