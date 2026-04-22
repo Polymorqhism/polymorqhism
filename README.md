@@ -16,6 +16,8 @@
 - `.cpp` & `.js` - to hate on
 
 ## Projects:
+
+
 | Stability | Indicator |
 ------  | ------------
 | Unstable / Frequent crashes / Unfinished | 🔴 |
@@ -25,7 +27,7 @@
 - Note: Stability ratings don't account for features unless explicitly mentioned (e.g. 🔴).
 
 | Project | Gist | Stability? |
-------  | ------------
+------  | ------------ | ----
 | [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟣 |
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟡 |
 | [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool | 🟢 |
