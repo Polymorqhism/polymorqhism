@@ -17,7 +17,7 @@
 
 ## Projects:
 
-
+### Stability Ratings:
 | Stability | Indicator |
 ------  | ------------
 | Unstable / Frequent crashes / Unfinished | 🔴 |
@@ -25,6 +25,8 @@
 | Reliable / Rare crashes | 🟡 |
 | Stable | 🟢 |
 - Note: Stability ratings don't account for features unless explicitly mentioned (e.g. 🔴).
+
+### Project List:
 
 | Project | Gist | Stability? |
 ------  | ------------ | ----
@@ -34,7 +36,6 @@
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
 | [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🔴 |
 - Refer to the repositories of each project for more information.
-
-
+- Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
 
 <sup><sub> take it or leave it </sub></sup>
