@@ -21,7 +21,7 @@
 | Stability | Indicator |
 ------  | ------------
 | Unstable / Frequent crashes / Unfinished | 🔴 |
-| Usable / Occasional Crashes | 🟣 |
+| Usable / Occasional Crashes | 🟠 |
 | Reliable / Rare crashes | 🟡 |
 | Stable | 🟢 |
 - Note: Stability ratings don't account for features unless explicitly mentioned (e.g. 🔴).
@@ -30,7 +30,7 @@
 
 | Project | Gist | Stability? |
 ------  | ------------ | ----
-| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟣 |
+| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟠 |
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟡 |
 | [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool | 🟢 |
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
