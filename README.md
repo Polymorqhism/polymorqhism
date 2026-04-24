@@ -23,6 +23,8 @@
 | Usable / Occasional Crashes | 🟠 |
 | Reliable / Rare crashes | 🟡 |
 | Stable | 🟢 |
+| Rewrite Pending | 🔵 |
+
 - Note: Stability ratings don't account for features unless explicitly mentioned (e.g. 🔴).
 
 ### Project List:
@@ -33,6 +35,6 @@
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟢 |
 | [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 |
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
-| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟠 |
+| [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🔵 |
 - Refer to the repositories of each project for more information.
 - Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
