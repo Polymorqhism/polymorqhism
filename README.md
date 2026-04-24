@@ -12,7 +12,7 @@
 
 ## Langs:
 - `.c` - real stuff
-- `.py` &`.js` - prototyping
+- `.py` & `.js` - prototyping
 
 ## Projects:
 
