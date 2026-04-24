@@ -19,7 +19,7 @@
 ### Stability Ratings:
 | Stability | Indicator |
 ------  | ------------
-| Unstable / Frequent crashes / Unfinished | 🔴 |
+| Unstable / Frequent Crashes / Unfinished | 🔴 |
 | Usable / Occasional Crashes | 🟠 |
 | Reliable / Rare crashes | 🟡 |
 | Stable | 🟢 |
