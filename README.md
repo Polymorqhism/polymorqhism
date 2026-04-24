@@ -31,8 +31,8 @@
 ------  | ------------ | ----
 | [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool | 🟢 |
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟢 |
+| [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 |
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
 | [polyWM](https://github.com/Polymorqhism/polyWM) | X11 window manager | 🟠 |
-| [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🔴 |
 - Refer to the repositories of each project for more information.
 - Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
