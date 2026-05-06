@@ -36,7 +36,7 @@
 | [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟢 |
 | [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 |
 | [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
-| [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM/) | X11 window manager | 🔵 |
-| [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy/) | X11 window manager | ⚫ |
+| [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM/) | Rewritten X11 window manager | 🔵 |
+| [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy/) | Legacy X11 window manager | ⚫ |
 - Refer to the repositories of each project for more information.
 - Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
