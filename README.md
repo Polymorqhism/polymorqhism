@@ -37,9 +37,9 @@
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyedit/main/polyedit.png" width="20" alt="polyedit logo"> [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟢 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyxplorer/main/polyxplorer.png" width="20" alt="polyxplorer logo"> [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyself/main/polyself.png" width="20" alt="polyself logo"> [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
-| <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM/main/polywm.png" width="20" alt="polyWM logo"> [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM) | Rewritten X11 window manager | 🔵 |
+| <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM/main/polyWM.png" width="20" alt="polyWM logo"> [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM) | Rewritten X11 window manager | 🔵 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polylog/main/polylog.png" width="20" alt="polylog logo"> [polylog](https://github.com/Polymorqhism/polylog) | C terminal logger | 🔴 |
-| <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM-legacy/main/polywm.png" width="20" alt="polyWM legacy logo"> [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy) | Legacy X11 window manager | ⚫ |
+| <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM-legacy/main/polyWM.png" width="20" alt="polyWM legacy logo"> [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy) | Legacy X11 window manager | ⚫ |
 
 
 - Refer to the repositories of each project for more information.
