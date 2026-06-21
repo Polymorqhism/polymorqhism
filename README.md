@@ -38,7 +38,6 @@
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyxplorer/main/polyxplorer.png" width="30" alt="polyxplorer logo"> [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyself/main/polyself.png" width="30" alt="polyself logo"> [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM/main/polyWM.png" width="30" alt="polyWM logo"> [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM) | Rewritten X11 window manager | 🔵 |
-| <img src="https://raw.githubusercontent.com/Polymorqhism/polyterm/main/polyterm.png" width="30" alt="polyterm logo"> [polyterm](https://github.com/Polymorqhism/polyterm) | Linux terminal | 🔴 |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM-legacy/main/polyWM.png" width="30" alt="polyWM legacy logo"> [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy) | Legacy X11 window manager | ⚫ |
 
 
