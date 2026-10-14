@@ -42,7 +42,7 @@
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM/main/polyWM.png" width="45" alt="polyWM logo"> [polyWM (Rewrite)](https://github.com/Polymorqhism/polyWM) | Rewritten X11 window manager | 🔴 | `.c` |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyWM-legacy/main/polyWM.png" width="45" alt="polyWM legacy logo"> [polyWM (Legacy)](https://github.com/Polymorqhism/polyWM-legacy) | Legacy X11 window manager | ⚫ | `.c` |
 
-
+- Intended for Linux systems only.
 - Refer to the repositories of each project for more information.
 - Majority of these projects were made for fun and may not be ready for adoption by a large userbase.
 - Certain projects may not be actively worked on unless they need maintenance. This means that some projects may remain unfinished until other projects are complete.
