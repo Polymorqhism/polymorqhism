@@ -13,6 +13,7 @@
 ## Langs:
 - `.c` - real stuff
 - `.py` & `.js` - prototyping
+- `.cpp` - coming soon
 
 ## Projects:
 
