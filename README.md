@@ -34,7 +34,7 @@
 | Project | Gist | Stability | Languages Used |
 |---------|------|-----------| -------- |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polycomm/main/polycomm.png" width="45" alt="polycomm logo"> [polycomm](https://github.com/Polymorqhism/polycomm) | Self-hosted encrypted communication tool | 🟢 | `.c` |
-| <img src="https://raw.githubusercontent.com/Polymorqhism/polyedit/main/polyedit.png" width="45" alt="polyedit logo"> [polyedit](https://github.com/Polymorqhism/polyedit) | TUI text editor for C | 🟢 | `.c` |
+| <img src="https://raw.githubusercontent.com/Polymorqhism/polyedit-minimal/main/polyedit.png" width="45" alt="polyedit logo"> [polyedit (Minimal)](https://github.com/Polymorqhism/polyedit) | (Minimal) TUI text editor for C | 🟢 | `.c` |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyxplorer/main/polyxplorer.png" width="45" alt="polyxplorer logo"> [polyxplorer](https://github.com/Polymorqhism/polyxplorer) | TUI file explorer | 🟢 | `.c` |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyui/main/polyui.png" width="45" alt="polyui logo"> [polyui](https://github.com/Polymorqhism/polyui) | ANSI wrapper | 🟢 | `.c` |
 | <img src="https://raw.githubusercontent.com/Polymorqhism/polyself/main/polyself.png" width="45" alt="polyself logo"> [polyself](https://github.com/Polymorqhism/polyself) | Experimental libc reimplementation | 🟡 | `.c` & `.s` |
